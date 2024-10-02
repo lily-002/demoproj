@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<Invoice xmlns="urn:oasis:names:specification:ubl:schema:xsd:Invoice-2" cac="urn:oasis:names:specification:ubl:schema:xsd:CommonAggregateComponents-2" cbc="urn:oasis:names:specification:ubl:schema:xsd:CommonBasicComponents-2"><ID>123456</ID><IssueDate>2021-09-01</IssueDate><InvoiceLine><ID>1</ID><InvoicedQuantity>1</InvoicedQuantity><InvoicedQuantity>1</InvoicedQuantity><DecreaseIncrease><Amount>1.00</Amount></DecreaseIncrease></InvoiceLine></Invoice>
